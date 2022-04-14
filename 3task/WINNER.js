@@ -31,10 +31,3 @@ class WINNER {
 }
 
 module.exports = WINNER;
-
-
-// let t = ['a', 'b', 'c', 'd', 'e']
-
-// const winner = new WINNER(t, t[3])
-// win = winner.win;
-// console.log(win)
