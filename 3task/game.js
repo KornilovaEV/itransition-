@@ -56,5 +56,4 @@ function game(str = null) {
     })
 }
 
-
 console.log(game(process.argv.slice(2)));
